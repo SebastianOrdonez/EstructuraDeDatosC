@@ -1,0 +1,12 @@
+ID: 105511
+Nombres: Sebastian
+Apellidos: Ordonez
+Dirección: Amauta 1 28
+Teléfonos: 0993700444, 1234567899, 9987654321
+-----------------------------------
+ID: 111111
+Nombres: Pablo 
+Apellidos: Erreyes
+Dirección: Los Andes
+Teléfonos: 1234567890, 0987654321, 0285318614
+-----------------------------------

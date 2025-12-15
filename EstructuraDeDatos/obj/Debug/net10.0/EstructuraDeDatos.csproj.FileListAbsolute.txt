@@ -1,0 +1,15 @@
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\bin\Debug\net10.0\EstructuraDeDatos.exe
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\bin\Debug\net10.0\EstructuraDeDatos.deps.json
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\bin\Debug\net10.0\EstructuraDeDatos.runtimeconfig.json
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\bin\Debug\net10.0\EstructuraDeDatos.dll
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\bin\Debug\net10.0\EstructuraDeDatos.pdb
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\obj\Debug\net10.0\EstructuraDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\obj\Debug\net10.0\EstructuraDeDatos.AssemblyInfoInputs.cache
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\obj\Debug\net10.0\EstructuraDeDatos.AssemblyInfo.cs
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\obj\Debug\net10.0\EstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\obj\Debug\net10.0\EstructuraDeDatos.dll
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\obj\Debug\net10.0\refint\EstructuraDeDatos.dll
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\obj\Debug\net10.0\EstructuraDeDatos.pdb
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\obj\Debug\net10.0\EstructuraDeDatos.genruntimeconfig.cache
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\obj\Debug\net10.0\ref\EstructuraDeDatos.dll
+C:\Users\pacma\OneDrive\Documentos\Proyectos\EstructuraDeDatos\obj\Debug\net10.0\EstructuraDeDatos.sourcelink.json
