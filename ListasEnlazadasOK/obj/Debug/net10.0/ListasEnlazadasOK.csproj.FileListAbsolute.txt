@@ -1,0 +1,15 @@
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\bin\Debug\net10.0\ListasEnlazadasOK.exe
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\bin\Debug\net10.0\ListasEnlazadasOK.deps.json
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\bin\Debug\net10.0\ListasEnlazadasOK.runtimeconfig.json
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\bin\Debug\net10.0\ListasEnlazadasOK.dll
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\bin\Debug\net10.0\ListasEnlazadasOK.pdb
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\obj\Debug\net10.0\ListasEnlazadasOK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\obj\Debug\net10.0\ListasEnlazadasOK.AssemblyInfoInputs.cache
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\obj\Debug\net10.0\ListasEnlazadasOK.AssemblyInfo.cs
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\obj\Debug\net10.0\ListasEnlazadasOK.csproj.CoreCompileInputs.cache
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\obj\Debug\net10.0\ListasEnlazadasOK.sourcelink.json
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\obj\Debug\net10.0\ListasEnlazadasOK.dll
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\obj\Debug\net10.0\refint\ListasEnlazadasOK.dll
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\obj\Debug\net10.0\ListasEnlazadasOK.pdb
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\obj\Debug\net10.0\ListasEnlazadasOK.genruntimeconfig.cache
+C:\Users\pacma\OneDrive\Documentos\Proyectos\ListasEnlazadasOK\obj\Debug\net10.0\ref\ListasEnlazadasOK.dll
