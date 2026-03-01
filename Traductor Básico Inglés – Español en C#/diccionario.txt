@@ -18,4 +18,5 @@ Week,semana
 Case,caso
 Point,punto / tema
 Government,gobierno
-Company,empresa / compañíabeatiful,hermoso/a
+Company,empresa / compañía
+beatiful,hermoso/a
