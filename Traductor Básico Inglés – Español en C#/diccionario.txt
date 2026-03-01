@@ -1,0 +1,21 @@
+day,dia
+time,tiempo
+person,persona
+year,año
+way,camino/forma
+thing,cosa
+man,hombre
+world,mundo
+life,vida
+hand,mano
+part,parte
+Child,niño/a
+Eye,ojo
+Woman,mujer
+Place,lugar
+Work,trabajo
+Week,semana
+Case,caso
+Point,punto / tema
+Government,gobierno
+Company,empresa / compañíabeatiful,hermoso/a
