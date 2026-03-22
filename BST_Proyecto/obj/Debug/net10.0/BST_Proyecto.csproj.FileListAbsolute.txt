@@ -1,0 +1,14 @@
+C:\Users\pacma\Proyetos\BST_Proyecto\bin\Debug\net10.0\BST_Proyecto.exe
+C:\Users\pacma\Proyetos\BST_Proyecto\bin\Debug\net10.0\BST_Proyecto.deps.json
+C:\Users\pacma\Proyetos\BST_Proyecto\bin\Debug\net10.0\BST_Proyecto.runtimeconfig.json
+C:\Users\pacma\Proyetos\BST_Proyecto\bin\Debug\net10.0\BST_Proyecto.dll
+C:\Users\pacma\Proyetos\BST_Proyecto\bin\Debug\net10.0\BST_Proyecto.pdb
+C:\Users\pacma\Proyetos\BST_Proyecto\obj\Debug\net10.0\BST_Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacma\Proyetos\BST_Proyecto\obj\Debug\net10.0\BST_Proyecto.AssemblyInfoInputs.cache
+C:\Users\pacma\Proyetos\BST_Proyecto\obj\Debug\net10.0\BST_Proyecto.AssemblyInfo.cs
+C:\Users\pacma\Proyetos\BST_Proyecto\obj\Debug\net10.0\BST_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\pacma\Proyetos\BST_Proyecto\obj\Debug\net10.0\BST_Proyecto.dll
+C:\Users\pacma\Proyetos\BST_Proyecto\obj\Debug\net10.0\refint\BST_Proyecto.dll
+C:\Users\pacma\Proyetos\BST_Proyecto\obj\Debug\net10.0\BST_Proyecto.pdb
+C:\Users\pacma\Proyetos\BST_Proyecto\obj\Debug\net10.0\BST_Proyecto.genruntimeconfig.cache
+C:\Users\pacma\Proyetos\BST_Proyecto\obj\Debug\net10.0\ref\BST_Proyecto.dll
